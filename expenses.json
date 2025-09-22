@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Ice Cream",
+        "amount": 10.0,
+        "category": "Food",
+        "date": "2025-09-21"
+    },
+    {
+        "name": "Uber",
+        "amount": 50.0,
+        "category": "Transport",
+        "date": "2025-19-09"
+    },
+    {
+        "name": "Youtube Music",
+        "amount": 19.99,
+        "category": "Entertainment",
+        "date": "2025-02-09"
+    },
+    {
+        "name": "Pizza",
+        "amount": 15.0,
+        "category": "Food",
+        "date": "2025-09-15"
+    }
+]
