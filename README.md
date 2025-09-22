@@ -33,10 +33,3 @@ It’s also **personally useful** — I can log daily expenses, fix mistakes, de
 - **User-friendly GUI:** Simple buttons and dialogs for ease of use.
 
 ---
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sblox715/expense-tracker.git
-   cd expense-tracker
